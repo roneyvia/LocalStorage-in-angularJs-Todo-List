@@ -28,9 +28,8 @@
 		</form>
 	</section>
 </div>
-```
 
-'''css
+<style>
 body {
 font-family:Arial;
 }
